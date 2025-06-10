@@ -97,3 +97,14 @@ Kaggle "7K Books" — 6,810 unique books with title, author, category, descripti
 | Embeddings | `OpenAIEmbeddings` |
 | Topic Classification | `facebook/bart-large-mnli` |
 | Sentiment Analysis | `j-hartmann/emotion-english-distilroberta-base` |
+
+---
+
+## 🚀 Getting Started
+
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Launch the Streamlit app
+streamlit run streamlit-dashboard.py
